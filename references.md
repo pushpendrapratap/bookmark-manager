@@ -1,0 +1,5 @@
+-   https://dev.to/andyhaskell/build-your-first-chrome-extension-with-chrome-tabs-3625
+-   https://developer.chrome.com/extensions/api_index
+-   https://developer.chrome.com/extensions/bookmarks
+-   https://developer.chrome.com/extensions/override
+-   https://developer.chrome.com/extensions/samples#search:bookmarks
